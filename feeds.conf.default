@@ -1,5 +1,3 @@
-src-git kenzo https://github.com/kenzok8/openwrt-packages
-src-git small https://github.com/kenzok8/small
 src-git luci https://github.com/coolsnowwolf/luci
 #src-git luci https://github.com/coolsnowwolf/luci.git;openwrt-23.05
 src-git routing https://github.com/coolsnowwolf/routing
